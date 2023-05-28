@@ -1,5 +1,9 @@
 # Embedded Linux Systems
 
+![image](https://www.mathworks.com/hardware-support/embedded-linux/_jcr_content/imageParsys/image.adapt.full.medium.png/1620307647773.png)
+
+## Brief
+
 This project involves creating a bootloader and Linux kernel for an ARM Cortex-A9 processor and configuring them to run on an embedded Linux system using an SD card. The following steps outline how to set up and run the system:
 
 ## Prerequisites
@@ -92,7 +96,7 @@ sudo apt install build-essential git autoconf bison flex texinfo help2man gawk l
 The system will now boot successfully ✅.
 
 ## Screenshots
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25803558/241566772-9338e06f-391a-4baf-98df-b1997dd33fee.png" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25803558/241567635-1d027e8d-73fa-4f38-ab5b-f7b5d92737f1.png" />
 
 ## Contributing
 
