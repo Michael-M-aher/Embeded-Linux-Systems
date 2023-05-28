@@ -4,7 +4,7 @@
 
 ## Brief
 
-This project involves creating a bootloader and Linux kernel for an ARM Cortex-A9 processor and configuring them to run on an embedded Linux system using an SD card. The following steps outline how to set up and run the system:
+This project involves configuring a bootloader and Linux kernel for an ARM Cortex-A9 processor to run on an embedded Linux system using an SD card. The following steps outline how to set up and run the system:
 
 ## Prerequisites
 
