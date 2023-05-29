@@ -84,7 +84,7 @@ sudo apt install build-essential git autoconf bison flex texinfo help2man gawk l
    setenv ipaddr 192.168.0.100
    setenv serverip 192.168.0.1
    setenv bootcmd 'tftp 0x61000000 zImage; tftp 0x62000000 vexpress-v2p-ca9.dtb;bootz 0x61000000 - 0x62000000'
-   setenv bootargs console=ttyAMA0 root=/dev/nfs ip=192.168.0.100 nfsroot=192.168.0.1:/home/<user>/Documents/GitHub/Embedded-Linux-Systems/nfsroot, nfsvers=3,tcp rw
+   setenv bootargs console=ttyAMA0 root=/dev/nfs ip=192.168.0.100 nfsroot=192.168.0.1:/home/<user>/<your path>/Embedded-Linux-Systems/nfsroot, nfsvers=3,tcp rw
    saveenv
    ```
 
